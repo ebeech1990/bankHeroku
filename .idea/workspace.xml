@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9add9022-5a10-4d33-a309-0e38191824f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/Java/app/CorsConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GroupMoneyMakers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GroupMoneyMakers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/app/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/app/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/app/controllers/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/app/controllers/AccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/app/controllers/AccountTransactionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/app/controllers/AccountTransactionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/app/models/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/app/models/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/app/models/AccountTransaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/app/models/AccountTransaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/app/models/AccountTransactionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/app/models/AccountTransactionType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/app/repositories/AccountRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/app/repositories/AccountRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/app/repositories/AccountTransactionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/app/repositories/AccountTransactionRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/app/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/app/service/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/app/service/AccountTransactionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/app/service/AccountTransactionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Tests/app/controllers/AccountControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Tests/app/controllers/AccountControllerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="moneyManagement: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="TypeScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZznfCesYSb6JAajh6RKNqMjglx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="h2&#10;mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/frontend/account-management/node_modules/protractor" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/frontend/account-management/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/account-management/src/app" />
+      <recent name="$PROJECT_DIR$/frontend" />
+      <recent name="$PROJECT_DIR$/backend" />
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Run (1)">
+    <configuration name="DeleteMe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.repositories.DeleteMe" />
+      <module name="GroupMoneyMakers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GroupMoneyMakers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="app.controllers" />
+      <option name="MAIN_CLASS_NAME" value="app.controllers.AccountControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E2E Tests (account-management)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/frontend/account-management/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/frontend/account-management/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (mmFront)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/frontend/mmFront/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (webapp)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/src/main/webapp/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Run (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="GroupMoneyMakers" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="app.Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Angular CLI Server (mmFront)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/frontend/mmFront/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/frontend/account-management/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DeleteMe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9add9022-5a10-4d33-a309-0e38191824f2" name="Default Changelist" comment="" />
+      <created>1585850890607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585850890607</updated>
+      <workItem from="1585850892274" duration="6556000" />
+      <workItem from="1585926565819" duration="15960000" />
+      <workItem from="1586021339819" duration="22149000" />
+      <workItem from="1586270403491" duration="9833000" />
+      <workItem from="1586444406514" duration="15282000" />
+      <workItem from="1586471127113" duration="3096000" />
+      <workItem from="1586522404143" duration="16396000" />
+      <workItem from="1586541295997" duration="15756000" />
+      <workItem from="1586619994850" duration="4573000" />
+      <workItem from="1586794967065" duration="9417000" />
+      <workItem from="1586811704656" duration="36730000" />
+      <workItem from="1586979939815" duration="8601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Users/ebeech/Downloads/Projects/GroupMoneyMakers/node_modules" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1" y="84" key="#Angular_CLI_Server_(mmFront)" timestamp="1586462410109">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="1" y="84" key="#Angular_CLI_Server_(mmFront)/0.23.1280.730@0.23.1280.730" timestamp="1586462410109" />
+    <state x="0" y="23" key="#TomEE_Server" timestamp="1586450507955">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="0" y="23" key="#TomEE_Server/0.23.1280.730@0.23.1280.730" timestamp="1586450507955" />
+    <state x="0" y="23" key="#Tomcat_Server" timestamp="1586450563611">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="0" y="23" key="#Tomcat_Server/0.23.1280.730@0.23.1280.730" timestamp="1586450563611" />
+    <state x="165" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586456063128">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="165" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.728@0.23.1280.728" timestamp="1585934821606" />
+    <state x="165" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.729@0.23.1280.729" timestamp="1585928701351" />
+    <state x="165" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.730@0.23.1280.730" timestamp="1586456063128" />
+    <state x="192" y="77" key="#com.intellij.ide.util.MemberChooser" timestamp="1586980671122">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="192" y="77" key="#com.intellij.ide.util.MemberChooser/0.23.1280.725@0.23.1280.725" timestamp="1586811941310" />
+    <state x="192" y="77" key="#com.intellij.ide.util.MemberChooser/0.23.1280.726@0.23.1280.726" timestamp="1586980671122" />
+    <state x="192" y="77" key="#com.intellij.ide.util.MemberChooser/0.23.1280.728@0.23.1280.728" timestamp="1585858527881" />
+    <state x="192" y="77" key="#com.intellij.ide.util.MemberChooser/0.23.1280.729@0.23.1280.729" timestamp="1586799100484" />
+    <state x="192" y="77" key="#com.intellij.ide.util.MemberChooser/0.23.1280.730@0.23.1280.730" timestamp="1586449596684" />
+    <state x="332" y="253" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585929188552">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="332" y="253" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1280.729@0.23.1280.729" timestamp="1585929188552" />
+    <state x="140" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586444585536">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="174" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1280.728@0.23.1280.728" timestamp="1586353477706" />
+    <state x="174" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1280.729@0.23.1280.729" timestamp="1586350492587" />
+    <state x="140" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1280.730@0.23.1280.730" timestamp="1586444585536" />
+    <state x="291" y="140" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586551408523">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="291" y="140" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.726@0.23.1280.726" timestamp="1586551408523" />
+    <state x="291" y="140" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.728@0.23.1280.728" timestamp="1585857318623" />
+    <state x="291" y="140" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.729@0.23.1280.729" timestamp="1586546901889" />
+    <state x="291" y="140" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.730@0.23.1280.730" timestamp="1586448768736" />
+    <state x="292" y="251" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586113042285">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="292" y="251" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1280.730@0.23.1280.730" timestamp="1586113042285" />
+    <state x="171" y="150" width="759" height="523" key="DiffContextDialog" timestamp="1586869361463">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="171" y="150" width="759" height="523" key="DiffContextDialog/0.23.1280.729@0.23.1280.729" timestamp="1586869361463" />
+    <state width="560" height="178" key="GridCell.Tab.0.bottom" timestamp="1587043676648">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="621" height="178" key="GridCell.Tab.0.bottom/0.23.1280.725@0.23.1280.725" timestamp="1586811224429" />
+    <state width="589" height="178" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1586890417023" />
+    <state width="560" height="178" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1587043676648" />
+    <state width="560" height="178" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1587037235453" />
+    <state width="560" height="178" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1587042562065" />
+    <state width="295" height="178" key="GridCell.Tab.0.bottom/0.23.1280.731@0.23.1280.731" timestamp="1586956747745" />
+    <state width="358" height="178" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1586796334125" />
+    <state width="560" height="178" key="GridCell.Tab.0.center" timestamp="1587043676647">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="621" height="178" key="GridCell.Tab.0.center/0.23.1280.725@0.23.1280.725" timestamp="1586811224428" />
+    <state width="589" height="178" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1586890417022" />
+    <state width="560" height="178" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1587043676647" />
+    <state width="560" height="178" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1587037235450" />
+    <state width="560" height="178" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1587042562053" />
+    <state width="295" height="178" key="GridCell.Tab.0.center/0.23.1280.731@0.23.1280.731" timestamp="1586956747744" />
+    <state width="358" height="178" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1586796334124" />
+    <state width="560" height="178" key="GridCell.Tab.0.left" timestamp="1587043676646">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="621" height="178" key="GridCell.Tab.0.left/0.23.1280.725@0.23.1280.725" timestamp="1586811224427" />
+    <state width="589" height="178" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1586890417022" />
+    <state width="560" height="178" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1587043676646" />
+    <state width="560" height="178" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1587037235447" />
+    <state width="560" height="178" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1587042562044" />
+    <state width="295" height="178" key="GridCell.Tab.0.left/0.23.1280.731@0.23.1280.731" timestamp="1586956747744" />
+    <state width="358" height="178" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1586796334124" />
+    <state width="560" height="178" key="GridCell.Tab.0.right" timestamp="1587043676647">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="621" height="178" key="GridCell.Tab.0.right/0.23.1280.725@0.23.1280.725" timestamp="1586811224428" />
+    <state width="589" height="178" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1586890417023" />
+    <state width="560" height="178" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1587043676647" />
+    <state width="560" height="178" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1587037235452" />
+    <state width="560" height="178" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1587042562062" />
+    <state width="295" height="178" key="GridCell.Tab.0.right/0.23.1280.731@0.23.1280.731" timestamp="1586956747744" />
+    <state width="358" height="178" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1586796334125" />
+    <state width="560" height="178" key="GridCell.Tab.1.bottom" timestamp="1587043676650">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="621" height="178" key="GridCell.Tab.1.bottom/0.23.1280.725@0.23.1280.725" timestamp="1586811224430" />
+    <state width="589" height="178" key="GridCell.Tab.1.bottom/0.23.1280.726@0.23.1280.726" timestamp="1586890417025" />
+    <state width="560" height="178" key="GridCell.Tab.1.bottom/0.23.1280.728@0.23.1280.728" timestamp="1587043676650" />
+    <state width="560" height="178" key="GridCell.Tab.1.bottom/0.23.1280.729@0.23.1280.729" timestamp="1587037235455" />
+    <state width="560" height="178" key="GridCell.Tab.1.bottom/0.23.1280.730@0.23.1280.730" timestamp="1587042562070" />
+    <state width="295" height="178" key="GridCell.Tab.1.bottom/0.23.1280.731@0.23.1280.731" timestamp="1586956747746" />
+    <state width="358" height="178" key="GridCell.Tab.1.bottom/0.23.1280.732@0.23.1280.732" timestamp="1586796334129" />
+    <state width="560" height="178" key="GridCell.Tab.1.center" timestamp="1587043676649">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="621" height="178" key="GridCell.Tab.1.center/0.23.1280.725@0.23.1280.725" timestamp="1586811224429" />
+    <state width="589" height="178" key="GridCell.Tab.1.center/0.23.1280.726@0.23.1280.726" timestamp="1586890417024" />
+    <state width="560" height="178" key="GridCell.Tab.1.center/0.23.1280.728@0.23.1280.728" timestamp="1587043676649" />
+    <state width="560" height="178" key="GridCell.Tab.1.center/0.23.1280.729@0.23.1280.729" timestamp="1587037235454" />
+    <state width="560" height="178" key="GridCell.Tab.1.center/0.23.1280.730@0.23.1280.730" timestamp="1587042562066" />
+    <state width="295" height="178" key="GridCell.Tab.1.center/0.23.1280.731@0.23.1280.731" timestamp="1586956747746" />
+    <state width="358" height="178" key="GridCell.Tab.1.center/0.23.1280.732@0.23.1280.732" timestamp="1586796334126" />
+    <state width="560" height="178" key="GridCell.Tab.1.left" timestamp="1587043676648">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="621" height="178" key="GridCell.Tab.1.left/0.23.1280.725@0.23.1280.725" timestamp="1586811224429" />
+    <state width="589" height="178" key="GridCell.Tab.1.left/0.23.1280.726@0.23.1280.726" timestamp="1586890417024" />
+    <state width="560" height="178" key="GridCell.Tab.1.left/0.23.1280.728@0.23.1280.728" timestamp="1587043676648" />
+    <state width="560" height="178" key="GridCell.Tab.1.left/0.23.1280.729@0.23.1280.729" timestamp="1587037235453" />
+    <state width="560" height="178" key="GridCell.Tab.1.left/0.23.1280.730@0.23.1280.730" timestamp="1587042562066" />
+    <state width="295" height="178" key="GridCell.Tab.1.left/0.23.1280.731@0.23.1280.731" timestamp="1586956747745" />
+    <state width="358" height="178" key="GridCell.Tab.1.left/0.23.1280.732@0.23.1280.732" timestamp="1586796334126" />
+    <state width="560" height="178" key="GridCell.Tab.1.right" timestamp="1587043676649">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="621" height="178" key="GridCell.Tab.1.right/0.23.1280.725@0.23.1280.725" timestamp="1586811224430" />
+    <state width="589" height="178" key="GridCell.Tab.1.right/0.23.1280.726@0.23.1280.726" timestamp="1586890417025" />
+    <state width="560" height="178" key="GridCell.Tab.1.right/0.23.1280.728@0.23.1280.728" timestamp="1587043676649" />
+    <state width="560" height="178" key="GridCell.Tab.1.right/0.23.1280.729@0.23.1280.729" timestamp="1587037235454" />
+    <state width="560" height="178" key="GridCell.Tab.1.right/0.23.1280.730@0.23.1280.730" timestamp="1587042562067" />
+    <state width="295" height="178" key="GridCell.Tab.1.right/0.23.1280.731@0.23.1280.731" timestamp="1586956747746" />
+    <state width="358" height="178" key="GridCell.Tab.1.right/0.23.1280.732@0.23.1280.732" timestamp="1586796334127" />
+    <state x="274" y="110" key="RollbackChangesDialog" timestamp="1586455677696">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="274" y="110" key="RollbackChangesDialog/0.23.1280.730@0.23.1280.730" timestamp="1586455677696" />
+    <state x="257" y="77" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1585935226987">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="257" y="77" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.23.1280.728@0.23.1280.728" timestamp="1585935226987" />
+    <state x="113" y="217" key="com.intellij.ide.util.TipDialog" timestamp="1586979942431">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="113" y="217" key="com.intellij.ide.util.TipDialog/0.23.1280.728@0.23.1280.728" timestamp="1586979942431" />
+    <state x="0" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586106905655">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="0" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1280.730@0.23.1280.730" timestamp="1586106905655" />
+    <state x="81" y="288" key="git4idea.ui.GitResetDialog" timestamp="1586455738189">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="81" y="288" key="git4idea.ui.GitResetDialog/0.23.1280.730@0.23.1280.730" timestamp="1586455738189" />
+    <state x="0" y="23" width="676" height="592" key="new project wizard" timestamp="1586450565243">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="0" y="23" key="new project wizard/0.23.1280.728@0.23.1280.728" timestamp="1585858711484" />
+    <state x="0" y="23" width="893" height="592" key="new project wizard/0.23.1280.729@0.23.1280.729" timestamp="1586355647946" />
+    <state x="0" y="23" width="676" height="592" key="new project wizard/0.23.1280.730@0.23.1280.730" timestamp="1586450565243" />
+    <state x="0" y="23" key="new project wizard/0.23.1280.731@0.23.1280.731" timestamp="1586278657568" />
+  </component>
+</project>
